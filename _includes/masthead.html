@@ -3,7 +3,7 @@
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
         <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
-        <img src="/images/faviconpng.png" alt="Image" height="32" width="32">>
+        <img src="/images/faviconpng.png" height="32" width="32">>
         <ul class="visible-links">
           {%- for link in site.data.navigation.main -%}
             {%- if link.url contains '://' -%}
