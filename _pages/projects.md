@@ -3,7 +3,6 @@ layout: archive
 permalink: /projects/
 title: "Previous Project Experiences"
 author_profile: true
-  image: "/images/bighouse.jpg"
 ---
 
 {% include base_path %}
