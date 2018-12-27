@@ -24,7 +24,7 @@ en: &DEFAULT_EN
   related_label              : "You may also enjoy"
   follow_label               : "Follow:"
   feed_label                 : "Feed"
-  powered_by                 : "Powered by"
+
   website_label              : "Website"
   email_label                : "Email"
   recent_posts               : "Recent posts"
@@ -76,7 +76,7 @@ es: &DEFAULT_ES
   related_label              : "Podrías ver también"
   follow_label               : "Seguir:"
   feed_label                 : "Feed"
-  powered_by                 : "Powered by"
+
   website_label              : "Sitio web"
   email_label                : "Email"
   recent_posts               : "Entradas recientes"
@@ -1125,7 +1125,7 @@ ro: &DEFAULT_RO
   back_to_top                : "Înapoi în susul paginii"
 ro-RO:
   <<: *DEFAULT_RO
-  
+
 # Punjabi
 # -----------------
 pa: &DEFAULT_PA
@@ -1170,7 +1170,7 @@ pa: &DEFAULT_PA
   results_found              : "ਨਤੀਜਾ ਮਿਲਿਆ/ਮਿਲੇ"
   back_to_top                : "ਵਾਪਸ ਚੋਟੀ 'ਤੇ ਜਾਓ"
 pa-IN:
-  <<: *DEFAULT_PA  
+  <<: *DEFAULT_PA
 # Another locale
 # --------------
 #
