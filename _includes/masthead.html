@@ -11,9 +11,9 @@
             {%- else -%}
               {%- assign url = link.url | relative_url -%}
             {%- endif -%}
+            <a href="http://vineetp.com/Parvathala_Vineet.Resume.pdf">Résumé</a>
             <li class="masthead__menu-item">
               <a href="{{ url }}" {% if link.description %}title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
-              <a href="http://vineetp.com/Parvathala_Vineet.Resume.pdf">Résumé</a>
             </li>
           {%- endfor -%}
         </ul>
