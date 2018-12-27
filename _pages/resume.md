@@ -1,4 +1,4 @@
 ---
 title: "Résumé"
-permalink: /resume/
+permalink: /Parvathala_Vineet.Resume.pdf
 ---
