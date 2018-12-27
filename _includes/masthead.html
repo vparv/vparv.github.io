@@ -5,17 +5,20 @@
         <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
         <img src="/images/faviconpng.png" height="32" width="32">
         <ul class="visible-links">
+
           {%- for link in site.data.navigation.main -%}
             {%- if link.url contains '://' -%}
               {%- assign url = link.url -%}
             {%- else -%}
               {%- assign url = link.url | relative_url -%}
             {%- endif -%}
-            <a href="http://vineetp.com/Parvathala_Vineet.Resume.pdf">Résumé</a>
+
             <li class="masthead__menu-item">
               <a href="{{ url }}" {% if link.description %}title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
             </li>
+
           {%- endfor -%}
+          <a href="http://vineetp.com/Parvathala_Vineet.Resume.pdf">Résumé</a>
         </ul>
         {% if site.search == true %}
         <button class="search__toggle" type="button">
