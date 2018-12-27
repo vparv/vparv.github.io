@@ -4,8 +4,16 @@ layout: archive
 
 {{ content }}
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
-
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "About Me" }}</h3>
+  <div>
+    <p>  Hi, I'm Vineet! I'm currently a first year student at</p>
+    <p>   the University of Michigan - Ann Arbor, studying    </p>
+    <p>   Computer Science and Cognitive Science. I'm from    </p>
+    <p>   Princeton, New Jersey and when I have some free     </p>
+    <p>    time I enjoy coding, learning new things, and      </p>
+    <p>                  eating good food.                    </p>
+    <p>        Thanks for checking out my website!            </p>
+  </div>
 {% for post in paginator.posts %}
   {% include archive-single.html %}
 {% endfor %}
