@@ -98,7 +98,7 @@
       top: 2em;
       float: right;
     }
-  
+
 
   @include breakpoint($x-large) {
     width: $right-sidebar-width;
@@ -192,7 +192,7 @@
   @include breakpoint($large) {
     margin-top: 10px;
     margin-bottom: 20px;
-    opacity: .50;
+    opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;
     transition: opacity 0.2s ease-in-out;
   }
