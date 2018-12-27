@@ -134,9 +134,9 @@ author:
 
 # Site Footer
 footer:
-    email            : "vparv@umich.edu"
-    github           : "vparv"
-    instagram        : "vparv3"
+    #email            : "vparv@umich.edu"
+    #github           : "vparv"
+    #instagram        : "vparv3"
 
   links:
     - label: "Twitter"
