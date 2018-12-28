@@ -13,7 +13,8 @@
             {%- endif -%}
 
             <li class="masthead__menu-item">
-              <a href="{{ url }}" {% if link.description %}title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
+              <a href="{{ url }}" {% if link.description %}title="{{ link.description }}"{% endif %}>{{ link.title }}</a><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i>
+            
             </li>
 
           {%- endfor -%}
