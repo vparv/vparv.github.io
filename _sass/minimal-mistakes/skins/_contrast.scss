@@ -3,15 +3,15 @@
    ========================================================================== */
 
 /* Colors */
-$background-color: #21252A !default;
-$text-color: #FFFFFF !default;
+$background-color: #FFFFFF !default;
+$text-color: #000000 !default;
 $muted-text-color: #6c7a89 !default;
 $primary-color: #000000 !default;
 $border-color: mix(#fff, $text-color, 75%) !default;
 $footer-background-color: #000 !default;
 $link-color: #0000ff !default;
 $masthead-link-color: $text-color !default;
-$masthead-link-color-hover: #0C4C8A !default;
+$masthead-link-color-hover: #6c7a89 !default;
 $navicon-link-color-hover: mix(#fff, $text-color, 100%) !default;
 
 /* contrast syntax highlighting (base16) */
