@@ -1,5 +1,5 @@
 /* ==========================================================================
-   Contrast skin 2e3131
+   Contrast skin 2e3131    mix(#fff, $text-color, 75%)
    ========================================================================== */
 
 /* Colors */
@@ -7,8 +7,8 @@ $background-color: #21252A !default; //background color
 $text-color: #FFFFFF !default; //overall text color
 $muted-text-color: #6c7a89 !default; //color after mouse hovers
 $primary-color: #FFFFFF !default; //underline
-$border-color: mix(#fff, $text-color, 75%) !default;
-$footer-background-color: #000 !default; //footer color
+$border-color: #123C69 !default;
+$footer-background-color: #123C69 !default; //footer color
 $link-color: #0000ff !default; //
 $masthead-link-color: #BDBDBD !default; //header link color
 $masthead-link-color-hover: #FFFFFF !default; //header link hover
