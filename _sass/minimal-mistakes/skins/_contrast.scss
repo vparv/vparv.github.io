@@ -3,16 +3,16 @@
    ========================================================================== */
 
 /* Colors */
-$background-color: #21252A !default;
-$text-color: #FFFFFF !default;
-$muted-text-color: #6c7a89 !default;
-$primary-color: #FFFFFF !default;
+$background-color: #21252A !default; //background color
+$text-color: #FFFFFF !default; //overall text color
+$muted-text-color: #6c7a89 !default; //color after mouse hovers
+$primary-color: #FFFFFF !default; //underline
 $border-color: mix(#fff, $text-color, 75%) !default;
-$footer-background-color: #000 !default;
-$link-color: #0000ff !default;
-$masthead-link-color: #BDBDBD !default;
-$masthead-link-color-hover: #FFFFFF !default;
-$navicon-link-color-hover: mix(#fff, $text-color, 100%) !default;
+$footer-background-color: #000 !default; //footer color
+$link-color: #0000ff !default; //
+$masthead-link-color: #BDBDBD !default; //header link color
+$masthead-link-color-hover: #FFFFFF !default; //header link hover
+$navicon-link-color-hover: mix(#fff, $text-color, 100%) !default; //threebar navicon color
 
 /* contrast syntax highlighting (base16) */
 $base00: #000000 !default;
