@@ -1,9 +1,11 @@
 ---
 layout: archive
 permalink: /projects/
+header:
+  image: "/images/IMG_2199.jpg"
 title: "Previous Project Experiences"
 author_profile: true
-  image: "/images/IMG_2199.jpg"
+
 ---
 
 
