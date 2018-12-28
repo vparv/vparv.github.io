@@ -13,9 +13,9 @@
             {%- endif -%}
 
             <li class="masthead__menu-item">
-              <i class="far fa-file"></i><a href="{{ url }}" {% if link.description %}title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
-              <i class="far fa-file" aria-hidden="true"></i> Resume
+              <a href="{{ url }}" {% if link.description %}title="{{ link.description }}"{% endif %}>{{ link.title }}</a><i class="far fa-file"></i>
               
+
             </li>
 
           {%- endfor -%}
