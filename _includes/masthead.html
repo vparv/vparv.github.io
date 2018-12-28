@@ -2,7 +2,7 @@
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
-        <a href="{{ '/' | relative_url }}"><img src="/images/faviconpng.png" height="50" width="50" title="Vineet Parvathala" alt="V"></a>
+        <a href="{{ '/' | relative_url }}"><img src="/images/faviconpng.png" height="70" width="70" title="Vineet Parvathala" alt="V"></a>
         <ul class="visible-links">
 
           {%- for link in site.data.navigation.main -%}
@@ -11,16 +11,15 @@
             {%- else -%}
               {%- assign url = link.url | relative_url -%}
             {%- endif -%}
-            <a href="{{ '/' | relative_url }}">Home</a>
+
             <li class="masthead__menu-item">
               <a href="{{ url }}" {% if link.description %}title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
-
             </li>
 
           {%- endfor -%}
           <a href="http://vineetp.com/Parvathala_Vineet.Resume.pdf">Résumé</a>
         </ul>
-        <img src="/images/faviconpng.png" class="centerImage" alt="VP Logo" height="40" width="40">
+        <img src="/images/faviconpng.png" class="centerImage" alt="VP Logo" height="60" width="60">
         {% if site.search == true %}
         <button class="search__toggle" type="button">
           <svg class="icon" width="16" height="16" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15.99 16">
