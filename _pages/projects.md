@@ -3,7 +3,7 @@ layout: archive
 permalink: /projects/
 title: "Previous Project Experiences"
 author_profile: true
-  image: ""/images/IMG_2199.jpg"
+  image: "/images/IMG_2199.jpg"
 ---
 
 
