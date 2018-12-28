@@ -110,28 +110,27 @@ author:
   location         : "Ann Arbor, MI"
   email            : "vparv@umich.edu"
   github           : "vparv"
-  instagram        : "vparv3"
   linkedin         : "vparv"
 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:vparv@umich.edu
+      # url: mailto:vparv@umich.edu
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://vparv.github.io"
+      # url: "https://vparv.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://facebook.com/"
+      # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/vparv"
+      # url: "https://github.com/vparv"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/vparv3"
+      # url: "https://instagram.com/vparv3"
 
 # Site Footer
 footer:
