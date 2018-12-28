@@ -144,7 +144,7 @@ footer:
       url: "https://www.facebook.com/people/Vineet-Parvathala/100009897967349"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://instagram.com/vparv3"
+      # url: "https://instagram.com/vparv3"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
