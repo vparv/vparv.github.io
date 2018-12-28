@@ -13,13 +13,12 @@
             {%- endif -%}
 
             <li class="masthead__menu-item">
-              <a href="{{ url }}" {% if link.description %}title="{{ link.description }}"{% endif %}>{{ link.title }}</a><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i>
-            
+              <a href="{{ url }}" {% if link.description %}title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
             </li>
 
           {%- endfor -%}
 
-          <a href="http://vineetp.com/Parvathala_Vineet.Resume.pdf">Résumé</a><i class="fab fa-facebook-square"></i>
+          <a href="http://vineetp.com/Parvathala_Vineet.Resume.pdf">Résumé</a>
 
         </ul>
 
