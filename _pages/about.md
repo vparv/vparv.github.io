@@ -28,19 +28,18 @@ gallery:
     image_path: /images/drake.jpg
     alt: "Drake"
     title: "Drake"
-  - url: /images/eagles.jpg
-    image_path: /images/eagles.jpg
-    alt: "Eagles"
-    title: "Philadelphia Eagles"
-  - url: /images/rafaelnadal.jpg
-    image_path: /images/rafaelnadal.jpg
-    alt: "Rafael Nadal"
-    title: "Rafael Nadal"
   - url: /images/rockets.jpg    
     image_path: /images/rockets.jpg
     alt: "Rockets"
     title: "Houston Rockets"
-
+  - url: /images/rafaelnadal.jpg
+    image_path: /images/rafaelnadal.jpg
+    alt: "Rafael Nadal"
+    title: "Rafael Nadal"
+  - url: /images/eagles.jpg
+    image_path: /images/eagles.jpg
+    alt: "Eagles"
+    title: "Philadelphia Eagles"
 
 ---
 
