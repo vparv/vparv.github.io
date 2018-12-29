@@ -16,30 +16,32 @@ gallery:
     image_path: /images/whitecollar.jpg
     alt: "White Collar"
     title: "White Collar"
-- url: /images/theweeknd.jpg
-    image_path: /images/theweeknd.jpg
-    alt: "The Weeknd"
-    title: "The Weeknd"
-- url: /images/travisscott.jpg   
-    image_path: /images/travisscott.jpg
-    alt: "Travis Scott"
-    title: "Travis Scott"
-- url: /images/drake.jpg
-    image_path: /images/drake.jpg
-    alt: "Drake"
-    title: "Drake"
-- url: /images/eagles.jpg
-    image_path: /images/eagles.jpg
-    alt: "Eagles"
-    title: "Philadelphia Eagles"
-- url: /images/rockets.jpg    
-    image_path: /images/rockets.jpg
-    alt: "Rockets"
-    title: "Houston Rockets"
-- url: /images/rafaelnadal.jpg
-    image_path: /images/rafaelnadal.jpg
-    alt: "Rafael Nadal"
-    title: "Rafael Nadal"
+gallery2:
+  - url: /images/theweeknd.jpg
+      image_path: /images/theweeknd.jpg
+      alt: "The Weeknd"
+      title: "The Weeknd"
+    - url: /images/travisscott.jpg   
+      image_path: /images/travisscott.jpg
+      alt: "Travis Scott"
+      title: "Travis Scott"
+    - url: /images/drake.jpg
+      image_path: /images/drake.jpg
+      alt: "Drake"
+      title: "Drake"
+gallery3:
+  - url: /images/eagles.jpg
+      image_path: /images/eagles.jpg
+      alt: "Eagles"
+      title: "Philadelphia Eagles"
+  - url: /images/rockets.jpg    
+      image_path: /images/rockets.jpg
+      alt: "Rockets"
+      title: "Houston Rockets"
+    - url: /images/rafaelnadal.jpg
+      image_path: /images/rafaelnadal.jpg
+      alt: "Rafael Nadal"
+      title: "Rafael Nadal"
 
 ---
 
