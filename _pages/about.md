@@ -46,4 +46,4 @@ gallery:
 
 I'm a first-year student at the University of Michigan studying Computer Science and Cognitive Science on the Computation and Cognition double major pathway.
 
-{% include gallery caption="My favorite TV shows" %}
+{% include gallery caption="" %}
