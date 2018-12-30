@@ -2,7 +2,7 @@
 
 permalink: /about-me/
 header:
-  image: "/images/headermich.jpg"
+  # image: "/images/headermich.jpg"
 gallery:   
   - url: /images/prisonbreak.jpg
     image_path: /images/prisonbreak.jpg
