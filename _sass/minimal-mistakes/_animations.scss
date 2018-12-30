@@ -19,3 +19,10 @@
     opacity: 1;
   }
 }
+
+.animatedd {
+  -webkit-animation-duration: 2s;
+  animation-duration: 2s;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+}
