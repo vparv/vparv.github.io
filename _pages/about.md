@@ -48,8 +48,12 @@ gallery:
 ## Education
 ### University of Michigan - Ann Arbor
 ![alt text](/images/um-logo.png "University of Michigan")
-### September 2018 - May 2022
+##### September 2018 - May 2022
 ### B.S. in Computer Science and Cognitive Science
+### South Brunswick High School
+##### September 2014 - May 2018
+
+
 
 
 
