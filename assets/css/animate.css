@@ -1447,6 +1447,10 @@
 }
 
 @-webkit-keyframes fadeInLeft {
+  -webkit-animation-delay: 2s;
+  animation-delay: 2s;
+  -webkit-animation-duration: 2s;
+  animation-duration: 2s;
   from {
     opacity: 0;
     -webkit-transform: translate3d(-100%, 0, 0);
@@ -1461,6 +1465,10 @@
 }
 
 @keyframes fadeInLeft {
+  -webkit-animation-delay: 2s;
+  animation-delay: 2s;
+  -webkit-animation-duration: 2s;
+  animation-duration: 2s;
   from {
     opacity: 0;
     -webkit-transform: translate3d(-100%, 0, 0);
