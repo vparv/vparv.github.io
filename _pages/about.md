@@ -1,6 +1,6 @@
 ---
-title: "About"
-permalink: /about/
+
+permalink: /about-me/
 header:
   image: "/images/headermich.jpg"
 gallery:   
@@ -43,7 +43,16 @@ gallery:
 
 ---
 
-I'm a first-year student at the University of Michigan studying Computer Science and Cognitive Science on the Computation and Cognition double major pathway.
+### H3 I'm a first-year student at the University of Michigan studying Computer Science and Cognitive Science on the Computation and Cognition double major pathway.
+
+## H2 Education
+### H3 University of Michigan - Ann Arbor
+![alt text](/images/um-logo.png "University of Michigan")
+### H3 September 2018 - May 2022
+### H3 B.S. in Computer Science and Cognitive Science
+
+
+
 
 
 Some of my favorites:
