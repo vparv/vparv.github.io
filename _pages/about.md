@@ -41,6 +41,9 @@ gallery:
     alt: "Eagles"
     title: "Philadelphia Eagles"
 
+    toc: true
+    toc_label: "My Table of Contents"
+    toc_icon: "cog"
 ---
 ## About
 I'm a first-year student at the University of Michigan studying Computer Science and Cognitive Science on the Computation and Cognition double major pathway.
@@ -52,12 +55,6 @@ September 2018 - May 2022
 
 South Brunswick High School - Dayton, New Jersey
 September 2014 - May 2018
-
-
-
-
-
-
 
 Some of my favorites:
 {% include gallery caption="" %}
