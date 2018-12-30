@@ -26,3 +26,10 @@
   -webkit-animation-fill-mode: both;
   animation-fill-mode: both;
 }
+
+#myHeader{
+  -webkit-animation-duration: 2s;
+  -moz-animation-duration: 2s;
+  -ms-transition-animation-duration: 2s;
+  animation-duration: 2s;
+}
