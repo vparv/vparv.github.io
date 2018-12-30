@@ -46,10 +46,10 @@ gallery:
 ### I'm a first-year student at the University of Michigan studying Computer Science and Cognitive Science on the Computation and Cognition double major pathway.
 
 ## Education
-### University of Michigan - Ann Arbor
+University of Michigan - Ann Arbor
+B.S. in Computer Science and Cognitive Science
 ##### September 2018 - May 2022
-### B.S. in Computer Science and Cognitive Science
-### South Brunswick High School
+South Brunswick High School
 ##### September 2014 - May 2018
 
 
