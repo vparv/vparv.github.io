@@ -3595,12 +3595,12 @@
   animation-delay: 5s;
 }
 
-.animated.delay-5s2 {
+.delay5s2 {
   -webkit-animation-delay: 5s;
   animation-delay: 5s;
   -webkit-animation-duration: 2s;
   animation-duration: 2s;
-  
+
 }
 
 .animated.fast {
