@@ -35,6 +35,7 @@ toc_label: "My Table of Contents"
           {% endif %}
         </header>
       {% endunless %}
+      <div class="content fadeInUp animated">
       <section class="page__content rotateInUpLeft animated" itemprop="text">
         {% if page.toc %}
           <aside class="sidebar__right {% if page.toc_sticky %}sticky{% endif %}">
@@ -47,7 +48,7 @@ toc_label: "My Table of Contents"
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
-
+      </div>
       <footer class="page__meta">
         {% if site.data.ui-text[site.locale].meta_label %}
           <h4 class="page__meta-title">{{ site.data.ui-text[site.locale].meta_label }}</h4>
