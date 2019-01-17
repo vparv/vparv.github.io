@@ -20,7 +20,7 @@ locale                   : "en-US"
 title                    : "Vineet Parvathala"
 title_separator          : "-"
 name                     : "Vineet Parvathala"
-description              : "Computer Science and Cognitive Science Double Major"
+description              : "Computer Science Major"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Vineet Parvathala"
-  avatar           : "/images/pic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Computer Science and Cognitive Science Double Major"
   location         : "Ann Arbor, MI"
   email            : "vparv@umich.edu"
