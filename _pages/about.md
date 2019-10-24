@@ -46,12 +46,12 @@ gallery:
     toc_label: "My Table of Contents"
 ---
 ## About
-I'm a second-year student at the University of Michigan studying Computer Science and Cognitive Science.
+I'm a third-year student at the University of Michigan studying Computer Science and Cognitive Science.
 
 ## Education
 University of Michigan - Ann Arbor, Michigan
-B.S. in Computer Science with Minor in Cognitive Science
-September 2018 - May 2022
+B.S. in Computer Science & Cognitive Science
+September 2018 - May 2021
 
 South Brunswick High School - Dayton, New Jersey
 September 2014 - May 2018
