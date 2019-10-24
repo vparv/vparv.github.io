@@ -51,10 +51,8 @@ I'm a third-year student at the University of Michigan studying Computer Science
 ## Education
 University of Michigan - Ann Arbor, Michigan
 B.S. in Computer Science & Cognitive Science
-September 2018 - May 2021
 
 South Brunswick High School - Dayton, New Jersey
-September 2014 - May 2018
 
 Some of my favorites:
 {% include gallery caption="" %}
