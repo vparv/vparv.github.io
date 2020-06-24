@@ -26,7 +26,7 @@ function typeDesc() {
       console.log(nameHeader);
       nameHeader.innerHTML = nameHeader.innerHTML + name.charAt(i);
       i += 1;
-      setTimeout(typeName, 50);
+      setTimeout(typeDesc, 50);
     } 
     else {
       i = 0;
@@ -42,7 +42,7 @@ function typeThanks() {
       console.log(nameHeader);
       nameHeader.innerHTML = nameHeader.innerHTML + name.charAt(i);
       i += 1;
-      setTimeout(typeName, 50);
+      setTimeout(typeThanks, 50);
     } 
     else {
       i = 0;
