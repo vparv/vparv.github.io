@@ -38,7 +38,7 @@ function typeThanks() {
     name = "Thanks for checking out my website ❤️ "
     
     if (i < name.length) {
-      nameHeader = document.getElementById("desc");
+      nameHeader = document.getElementById("thanks");
       console.log(nameHeader);
       nameHeader.innerHTML = nameHeader.innerHTML + name.charAt(i);
       i += 1;
