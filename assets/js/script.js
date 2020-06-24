@@ -1,4 +1,4 @@
-var name = "Vineet Parvathala 🚀"
+var name = "Hi, I'm Vineet! I'm currently a junior at the University of Michigan - Ann Arbor, studying Computer Science and Cognitive Science. 🚀"
 var i = 0;
 
 function typeName() {
