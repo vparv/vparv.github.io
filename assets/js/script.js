@@ -2,7 +2,7 @@
 var i = 0;
 
 function typeName() {
-var name = "Hi, I'm Vineet! I'm a junior at the University of Michigan Ann Arbor, studying Computer Science. 🚀"
+var name = "Hi, I'm Vineet! I'm a junior at the University of Michigan Ann Arbor, studying Computer Science 🚀"
 
 if (i < name.length) {
   var nameHeader = document.getElementById("nametag");
