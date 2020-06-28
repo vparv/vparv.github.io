@@ -9,7 +9,7 @@ if (i < name.length) {
   console.log(nameHeader);
   nameHeader.innerHTML = nameHeader.innerHTML + name.charAt(i);
   i += 1;
-  setTimeout(typeName, 20);
+  setTimeout(typeName, 35);
 } 
 else {
     i = 0;
@@ -26,7 +26,7 @@ function typeDesc() {
       console.log(nameHeader);
       nameHeader.innerHTML = nameHeader.innerHTML + name.charAt(i);
       i += 1;
-      setTimeout(typeDesc, 20);
+      setTimeout(typeDesc, 35);
     } 
     else {
       i = 0;
@@ -42,7 +42,7 @@ function typeThanks() {
       console.log(nameHeader);
       nameHeader.innerHTML = nameHeader.innerHTML + name.charAt(i);
       i += 1;
-      setTimeout(typeThanks, 20);
+      setTimeout(typeThanks, 35);
     } 
     else {
       i = 0;
