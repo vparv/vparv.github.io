@@ -2538,6 +2538,12 @@
 
 }
 
+.red {
+  color: #333333;
+  background: red;
+
+}
+
 .rotateInUpRight {
   -webkit-animation-name: rotateInUpRight;
   animation-name: rotateInUpRight;
