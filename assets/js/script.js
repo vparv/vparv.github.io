@@ -9,7 +9,7 @@ if (i < name.length) {
   console.log(nameHeader);
   nameHeader.innerHTML = nameHeader.innerHTML + name.charAt(i);
   i += 1;
-  setTimeout(typeName, 50);
+  setTimeout(typeName, 35);
 } 
 else {
     i = 0;
@@ -19,14 +19,14 @@ else {
 }
 
 function typeDesc() {
-    name = "I'm from Princeton, New Jersey and when I have free time, I enjoy coding 💻, learning new things 💡, and checking out new restaurants 🍽️."
+    name = "I'm from Princeton, New Jersey and when I have free time, I enjoy coding 💻, learning new things 💡, and checking out new restaurants 🍽️"
     
     if (i < name.length) {
       nameHeader = document.getElementById("desc");
       console.log(nameHeader);
       nameHeader.innerHTML = nameHeader.innerHTML + name.charAt(i);
       i += 1;
-      setTimeout(typeDesc, 50);
+      setTimeout(typeDesc, 35);
     } 
     else {
       i = 0;
@@ -42,7 +42,7 @@ function typeThanks() {
       console.log(nameHeader);
       nameHeader.innerHTML = nameHeader.innerHTML + name.charAt(i);
       i += 1;
-      setTimeout(typeThanks, 50);
+      setTimeout(typeThanks, 35);
     } 
     else {
       i = 0;
