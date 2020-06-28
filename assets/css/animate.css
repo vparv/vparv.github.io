@@ -2532,6 +2532,12 @@
   }
 }
 
+.light {
+  color: #333333;
+  background: whitesmoke;
+
+}
+
 .rotateInUpRight {
   -webkit-animation-name: rotateInUpRight;
   animation-name: rotateInUpRight;
