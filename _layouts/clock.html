@@ -1,3 +1,9 @@
+---
+layout: archive
+---
+<link rel="stylesheet" href="/css/animate.css">
+
+{{ content }}
 <html>
   <head>
     <title>Clock</title>
@@ -20,3 +26,10 @@
     <script type="text/javascript" src="clock.js"></script>
   </body>
 </html>
+
+
+{% for post in paginator.posts %}
+  {% include archive-single.html %}
+{% endfor %}
+
+{% include paginator.html %}
