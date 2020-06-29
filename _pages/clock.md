@@ -1,5 +1,5 @@
 ---
 title: "Clock"
-permalink: /clock.html
+permalink: /clock
 
 ---
